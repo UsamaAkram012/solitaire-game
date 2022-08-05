@@ -11,5 +11,4 @@ I developed console game for playing cards. Console functions were used to desig
 - Add All files in that project directry
 - Open main.cpp
 - Compile and then run
-- Enjoy your game
 -----------------------------------
