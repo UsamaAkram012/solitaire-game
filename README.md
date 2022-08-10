@@ -9,7 +9,4 @@ I developed console game for playing cards. Console functions were used to desig
 - Open your visual Studio
 - Create new project
 - Add All files in that project directry
-- Open main.cpp
-- Compile and then run
-- Enjoy your game
 -----------------------------------
